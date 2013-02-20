@@ -1,0 +1,8 @@
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\bin\Debug\ElderCare.exe
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\bin\Debug\ElderCare.pdb
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\bin\Debug\libpxcclr.dll
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\bin\Debug\Verbot5Library.dll
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\bin\Debug\Verbot5Library.pdb
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\obj\x86\Debug\ElderCare.csprojResolveAssemblyReference.cache
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\obj\x86\Debug\ElderCare.exe
+c:\users\avinash\documents\visual studio 2010\Projects\ElderCare\ElderCare\obj\x86\Debug\ElderCare.pdb
